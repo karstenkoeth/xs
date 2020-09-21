@@ -202,7 +202,7 @@ a:active  { text-decoration: none; color: black; }
   border-width: 2px;
   border-color: #000000;
   border-style: solid;
-  box-shadow: 2px 2px #000000 ;
+  box-shadow: 4px 4px #000000 ;
   color: #000000;
   background-color: #ffffff;
   font-size: 24px;
@@ -210,7 +210,7 @@ a:active  { text-decoration: none; color: black; }
   cursor: pointer;
   width: 120px;
   height: 40px;
-  /* background: linear-gradient(180deg, #fff 0%, #fff 0%, #e6e6e6 100%, #e6e6e6 100%); */
+  /* By pressed: Invert. By inactive: Grey? */
 }
 
 .IValbumsOverview {
